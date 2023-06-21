@@ -1,0 +1,89 @@
+.nav1{
+    display: flex;
+    height: 100px;
+}
+.myntra{
+    width: 100px;
+    height:80px;
+}
+.nav2{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.nav2:hover{
+   color: #F1539B ;
+}
+sup{
+    color:rgb(202, 0, 118)
+}
+.bar{
+    width:550px;
+    height:30px;
+    margin-top: 25px;
+    border-radius:0px 5px 5px 0px;
+    border: 2px solid #F5F1F7 ;
+    background-color: #F5F1F7 ;
+}
+.search{
+    width:28px;
+    height:32px;
+    margin-top: 25px;
+    margin-left: 15px;
+    border: 2px solid  #F5F1F7  ;
+    background-color: #F5F1F7  ;
+    border-radius:  5px 0px 0px 5px;
+}
+.icon{
+    width:25px;
+    height:25px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.p{
+    margin-left: 50px;
+    margin-top:-20px;
+    font-weight: bold;
+}
+.icon2{
+    text-decoration: none;
+    color: black;
+}
+.cat{
+    margin-top: 20px;
+}
+.all{
+    border-radius: 100%;
+    width:150px;
+    height:150px;
+    margin-left: 15px;
+}
+.flex{
+    display: flex;
+}
+.flex1{
+    display:flex;
+}
+.text{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+
+}
+.all1{
+    margin-top: 50px;
+    border-radius: 100%;
+    width:150px;
+    height:150px;
+    margin-left: 15px;
+}
+.text1{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color:black
+}
